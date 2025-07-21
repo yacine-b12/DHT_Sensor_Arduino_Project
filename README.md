@@ -22,10 +22,9 @@ See the image above for the complete wiring schematic.
 ## Installation
 
 1. Assemble the circuit as shown in the wiring diagram.
-2. Position the laser pointer so its beam hits the photoresistor directly.
-3. Download this repository.
-4. Install the Arduino IDE from [arduino.cc](https://www.arduino.cc/en/software).
-5. Connect the Arduino UNO to your PC via USB.
+2. Download this repository.
+3. Install the Arduino IDE from [arduino.cc](https://www.arduino.cc/en/software).
+4. Connect the Arduino UNO to your PC via USB.
 
 ## Usage
 
